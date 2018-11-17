@@ -1,0 +1,5 @@
+authenticated.users=[{"id"\:"9496cd58-68a3-4856-ab67-ad0a3f3d47b8","token"\:"d3320b26-c9ac-4e27-9d6c-3e40324a018b","userId"\:"lupiv666","refreshToken"\:"","baseUrl"\:"https\://anypoint.mulesoft.com/"}]
+current.token=d3320b26-c9ac-4e27-9d6c-3e40324a018b
+current.user=lupiv666
+eclipse.preferences.version=1
+org.mule.tooling.amc.apps={"userProjectMap"\:{"lupiv666"\:{"test1"\:"{\\"applicationName\\"\:\\"test1-vpiul\\",\\"muleRuntime\\"\:\\"3.9.1\\",\\"properties\\"\:{\\"env\\"\:\\"DEV\\"}}"}}}

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;test1/src/main/app/indian-flight-api.xml&apos; to &apos;interface.xml&apos;" description="Rename resource &apos;indian-flight-api.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/app/indian-flight-api.xml" name="interface.xml" stamp="1541421621375" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;test1/src/main/app/test1.xml&apos; to &apos;implementation.xml&apos;" description="Rename resource &apos;test1.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/app/test1.xml" name="implementation.xml" stamp="1541421649654" updateReferences="true"/>
+</session>
